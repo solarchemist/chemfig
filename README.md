@@ -1,4 +1,5 @@
 # chemfig
 Archive of chemfig examples
 
-* [water](water.md)
+* [Water](water.md)
+* [Eriochrome black T](EBT.md)
