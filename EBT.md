@@ -32,7 +32,7 @@
 \pagestyle{empty}
 \begin{document}
 \begin{tikzpicture}
-   \node (n1) {\chemfig{%
+   \node (n1) {\chemfig{ %
       ([:-30]*6((-=^[::+60]-[::+60]=^[::+60]-[::+60])=-(-OH)=%
       (-N=[::60]N-*6(=(-OH)-=(-S(=[::+90]O)(=[::-90]O)%
       (-\charge{30=\textbf{\fsscrm} }{O}-%
@@ -42,3 +42,4 @@
 \end{tikzpicture}
 \end{document}
 ```
+
