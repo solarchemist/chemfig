@@ -11,7 +11,7 @@
 
 ## info
 
-* Molecular formula: C<sub>16</sub>H<sub<18</sub>ClN<sub>3</sub>S
+* Molecular formula: C<sub>16</sub>H<sub>18</sub>ClN<sub>3</sub>S
 * SMILES: CN(C)c1ccc2c(c1)sc-3cc(=[N+](C)C)ccc3n2.[Cl-]
 * [Wikimedia](https://commons.wikimedia.org/wiki/File:Methylene_blue.svg)
 
