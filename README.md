@@ -1,5 +1,8 @@
 # chemfig
 Archive of chemfig examples
 
-* [Water](water.md)
 * [Eriochrome black T](EBT.md)
+* [Methylene blue](MB.md)
+* [Methyl orange](MO.md)
+* [Reactive black 5](RB5.md)
+* [Water](water.md)

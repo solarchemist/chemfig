@@ -13,6 +13,7 @@
 
 * Molecular formula: C<sub>20</sub>H<sub>12</sub>N<sub>3</sub>O<sub>7</sub>SNa
 * SMILES: C1=CC=C2C(=C1)C=CC(=C2O)/N=N/C3=C4C=CC(=CC4=C(C=C3O)S(=O)(=O)[O-])[N+](=O)[O-].[Na+]
+* [Wikimedia](https://commons.wikimedia.org/wiki/File:Eriochrome_black_T.svg)
 
 ![Chemical structure formula](EBT.svg)
 
